@@ -5,8 +5,10 @@ public class Ders1 {
 		
 		System.out.println("Saat 17:53");
 		System.out.println("Saat 18:46");
+
 		System.out.println("Saat 19:46 mustafa");
 		System.out.println("Saat 18:46  velixvxvx");
+		System.out.println("Saat 19:46 mustafa conlict");
 		
 	}
 
